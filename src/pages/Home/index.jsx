@@ -7,9 +7,9 @@ import {
     InputLabel,
     Title,
     TopBackground
-  } from './styles/styles'
+  } from './styles'
   
-  import UsersImage from './assets/logolink.jpg'
+  import UsersImage from '../../assets/logolink.jpg'
   
   function App() {
     return (
